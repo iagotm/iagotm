@@ -56,8 +56,7 @@
           
           
 </div>
-
-<img src="https://pacman.abozanona.me?username=yourusername" />
+<img src="https://github.com/iagotm/iagotm/blob/06e33319bafee1d9935057ae07cdcdf316f4bb27/pacman-contributions.svg" />
 
 <h3 align="left">💡 Minhas Skills</h3>
 
