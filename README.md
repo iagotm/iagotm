@@ -22,12 +22,6 @@
 
 <p align="left">Sou Analista de Testes e Qualidade de Software (QA) apaixonado por garantir que produtos digitais entreguem a melhor experiência possível para os usuários. Minha jornada na tecnologia começou com o desenvolvimento web, onde adquiri uma base sólida em programação e lógica, e evoluiu naturalmente para a área de qualidade, que é onde encontrei meu verdadeiro propósito.<br><br><br>🎓 Bacharel em Ciência da Computação pelo IESB (Instituto de Educação Superior de Brasília), onde desenvolvi habilidades em lógica de programação, estruturas de dados e banco de dados.<br>🛠️ Experiência prática com testes manuais e automação de testes, usando ferramentas como Cypress, Appium e Postman.<br>📚 Estudando JavaScript, Node.js, API, Cypress, Postman entre outros.<br>📈Conhecimento em metodologias ágeis, como Scrum, e forte espírito colaborativo para trabalhar em equipe.<br>🚀 Explorando novas tecnologias e desenvolvendo soluções de qualidade.<br>❤️ Motivado a aprender continuamente, buscando aprimorar minhas habilidades técnicas e de análise para garantir a entrega de software confiável e eficiente.</p>
 
-###
-
-<img src="https://raw.githubusercontent.com/iagotm/iagotm/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">🛠 Tecnologias e Linguagens</h3>
 
 ###
